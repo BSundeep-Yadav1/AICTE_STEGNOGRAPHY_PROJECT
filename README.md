@@ -2,6 +2,7 @@ Dependencies: install python, cv2 using command prompt command i.e: pip install 
 
 STEP 1. Upload picture to the same folder where the python programe is there.
 ![Image](https://github.com/user-attachments/assets/73044c43-5943-4e78-97c5-190d119af2ad)
+
 STEP 2. Once you run the program in the python IDLE. It will ask for the secret message.
 ![Image](https://github.com/user-attachments/assets/e60c8331-0661-431b-b8d8-c87f0baed67c)
 STEP 3. Given the secret message as "I love nature i am responsible for its healthiness."
