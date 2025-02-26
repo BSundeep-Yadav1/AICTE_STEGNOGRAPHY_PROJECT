@@ -16,3 +16,5 @@ STEP 6. On click of enter encrypted image is created which is 13KB in size which
 
 encrypted image:
 ![Image](https://github.com/user-attachments/assets/32b374cf-080e-416a-b252-e0c1679ca67b)
+![Image](https://github.com/user-attachments/assets/b12717b3-fc82-4526-838c-f0533bc9459d)
+STEP 7. 
